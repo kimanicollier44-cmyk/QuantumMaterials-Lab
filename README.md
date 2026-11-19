@@ -1,4 +1,4 @@
-![QuantumMaterials-Lab cover](assets/cover.png)
+![QuantumMaterials-Lab cover](QuantumMaterials-Lab%20cover.png)
 
 # QuantumMaterials-Lab 🧱⚛️
 
